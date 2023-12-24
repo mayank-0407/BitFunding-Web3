@@ -7,3 +7,5 @@ Steps for creating
 - npx tailwindcss init -p
 - npm i hardhat
 - npx hardhat init
+- npm i ether
+- npm i web3modal
